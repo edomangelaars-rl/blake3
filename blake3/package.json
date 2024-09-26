@@ -28,9 +28,9 @@
   "author": "Connor Peet <connor@peet.io>",
   "license": "MIT",
   "dependencies": {
-    "blake3-wasm": "2.1.7"
+    "blake3-wasm": "3.0.0"
   },
   "optionalDependencies": {
-    "@c4312/blake3-native": "2.1.7"
+    "@c4312/blake3-native": "3.0.0"
   }
 }
